@@ -67,5 +67,5 @@ Sample Input:
 - **Frameworks & Tools:** TensorFlow/Keras, NLTK, and Jupyter Notebook.
 
 ## Contact
-For queries, reach out at saikirannaik03@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/k-sai-kiran-naik-5b6019257/)
+For queries, reach out at saikirannaik03@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/k-sai-kiran-naik-5b6019257/).
 
